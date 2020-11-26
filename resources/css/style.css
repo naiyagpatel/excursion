@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+.header-main {
+    color:white;
+    /*text-align: center;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.a_tag {
+    color: aquamarine;
+    font-size: 16px;
+}
+.header2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    font-weight: 300;
+    font-size: 42px;
+}
+p {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
+address {
+    text-align: right;
+    color:gray;
+}
